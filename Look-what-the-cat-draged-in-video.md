@@ -8,6 +8,8 @@
 # Imagine that you had the necessary engineering knowledge, programming skills, time, and resources to build anything that you wanted. What would you build? 
 
 - build a robot arm that hooks onto a library wall that can scan books and find the key word that you want and highlights the books related to this key this keyword making it easier for the reader to find the books that they want to read and open the book withhout taring any of the pages
-- Implement state of the art educational technology in schools and universities. Provide digital learning platforms, interactive classrooms, and virtual reality experiences to enhance the learning environment. 
+- build in schools and universities. Provide digital learning platforms, interactive classrooms, and virtual reality experiences to enhance the learning environment. For example the teacher could speak and somthing would happen that would link towards the teaching or somthing as simple as turning off the lights from the other side of the room.
+
+
 
 
