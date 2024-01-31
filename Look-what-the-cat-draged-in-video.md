@@ -11,7 +11,7 @@
 
 <p>Build a robot arm that hooks onto a library wall that can scan books and find the key word that you want and highlights the books related to this key this keyword making it easier for the reader to find the books that they want to read and it will pull out the book.
 
-![Alt text](image-1.png)
+![Image of book case](image-1.png)
 
 ### Immersive Educational Technology Hub
 
